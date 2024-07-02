@@ -1,0 +1,47 @@
+*{
+    background-color: #996c41;
+}
+.container{
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+}
+.list-item{
+    margin-right: 70px;
+    font-size: 1.3rem;
+    
+}
+.logoImg{
+    margin-top: 5px;
+    height: 50px;
+    width: 50px;
+    border: 0px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+a{
+    color: #2a251f;
+    text-decoration: none;
+}
+#searchBar{
+    background-color: #996c41;
+    border: 2px solid #2a251f;
+    color: #2a251f;
+    border-radius: 10px;
+    padding: 3px;
+}
+a:hover{
+    background-color: #2a251f;
+    color: #996c41;
+    padding: 2px;
+    border: 0px;
+    border-radius: 4px;
+}
+.heading{
+    margin-top: 50px;
+    text-align:center;
+    color: #2a251f;
+}
